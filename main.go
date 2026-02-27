@@ -2,11 +2,14 @@ package main
 
 import "fmt"
 
-var num int = 10
-var num2 int = 115
+var name string = "John doe"
+var num float64 = 154.61
+var booli bool = true 
 
 
 func main() {
-    fmt.Println(num2)
-    fmt.Printf("num2  + 10 =  %d with 'fmt' " , num2  + 10)
+    fmt.Println(name)
+    fmt.Println(num)
+    fmt.Println(booli)
+
 }
