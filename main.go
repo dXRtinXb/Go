@@ -2,14 +2,11 @@ package main
 
 import "fmt"
 
-var name string = "John doe"
-var num float64 = 154.61
-var booli bool = true 
-
-
 func main() {
-    fmt.Println(name)
-    fmt.Println(num)
-    fmt.Println(booli)
+    intAr := [3] int {1,2,3}
+    StrAr := [3] string {"Hello"," ","World"}
+    fmt.Println(intAr[2])
+    fmt.Println(StrAr[2])
+
 
 }
