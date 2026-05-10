@@ -19,21 +19,21 @@ func (p *Person) SetAge(newAge int) {
 
 func main() {
 	p1 := Person{
-		FirstName: "علی",
-		LastName:  "رضایی",
+		FirstName: "Ali",
+		LastName:  "Ahmadi",
 		Age:       30,
 	}
 
 	p1.Greet() 
 
 	p2 := &Person{ 
-		FirstName: "مریم",
-		LastName:  "احمدی",
+		FirstName: "mariam",
+		LastName:  "Ahmadi",
 		Age:       25,
 	}
 
 	p2.Greet()
 
 	p2.SetAge(26) 
-	fmt.Printf("%s اکنون %d ساله است.\n", p2.FirstName, p2.Age)
+	fmt.Printf("%s Now %dyears old.\n", p2.FirstName, p2.Age)
 }

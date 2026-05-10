@@ -10,9 +10,9 @@ type Person struct {
 
 func main() {
 	p1 := Person{
-		FirstName: "علی",
-		LastName:  "رضایی",
-		Age:       30,
+		FirstName: "Ali",
+		LastName:  "Asghar",
+		Age:       159,
 	}
 
 	fmt.Println("نام:", p1.FirstName)
