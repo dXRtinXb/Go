@@ -19,6 +19,3 @@ This repository will evolve as I learn, but current and planned explorations inc
 *   **Error Handling:** Idiomatic Go error handling patterns.
 *   **Concurrency:** Goroutines and channels for concurrent programming.
 *   **Packages:** Organizing code and importing external packages.
-## 📂 Project Structure
-
-The repository is organized as follows:
