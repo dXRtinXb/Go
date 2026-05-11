@@ -1,6 +1,6 @@
 # Go Learning Journey
 
-This repository documents my learning process and exploration of the Go programming language, primarily guided by the official Go documentation. It contains code examples, small projects, and notes taken while studying Go's features, syntax, and best practices.
+This repository documents my learning process and exploration of the Go programming language, primarily guided by the official Go documentation. It contains code examples and notes taken while studying Go's features, syntax, and best practices.
 
 ## 📚 Learning Approach
 
